@@ -1,0 +1,74 @@
+\begin{thebibliography}{10}
+
+\bibitem{9127813}
+Y.~{Guo}, H.~{Wang}, Q.~{Hu}, H.~{Liu}, L.~{Liu}, and M.~{Bennamoun}.
+\newblock Deep learning for 3d point clouds: A survey.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  pages 1--1, 2020.
+
+\bibitem{Hu2019RandLA}
+Qingyong Hu, Bo~Yang, Linhai Xie, Stefano Rosa, Yulan Guo, Zhihua Wang, Niki
+  Trigoni, and Andrew Markham.
+\newblock Randla-net: Efficient semantic segmentation of large-scale point
+  clouds.
+\newblock 2019.
+
+\bibitem{pvcnn}
+Zhijian Liu, Haotian Tang, Yujun Lin, and Song Han.
+\newblock Point-voxel cnn for efficient 3d deep learning.
+\newblock 07 2019.
+
+\bibitem{milioto2019rangenet++}
+Andres Milioto, Ignacio Vizzo, Jens Behley, and Cyrill Stachniss.
+\newblock Rangenet++: Fast and accurate lidar semantic segmentation.
+\newblock In {\em 2019 IEEE/RSJ International Conference on Intelligent Robots
+  and Systems (IROS)}, pages 4213--4220. IEEE, 2019.
+
+\bibitem{qi2017pointnet}
+Charles~R Qi, Hao Su, Kaichun Mo, and Leonidas~J Guibas.
+\newblock Pointnet: Deep learning on point sets for 3d classification and
+  segmentation.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 652--660, 2017.
+
+\bibitem{qi2017pointnet++}
+Charles~Ruizhongtai Qi, Li~Yi, Hao Su, and Leonidas~J Guibas.
+\newblock Pointnet++: Deep hierarchical feature learning on point sets in a
+  metric space.
+\newblock In {\em Advances in neural information processing systems}, pages
+  5099--5108, 2017.
+
+\bibitem{rethage2018fully}
+Dario Rethage, Johanna Wald, Jurgen Sturm, Nassir Navab, and Federico Tombari.
+\newblock Fully-convolutional point networks for large-scale point clouds.
+\newblock In {\em Proceedings of the European Conference on Computer Vision
+  (ECCV)}, pages 596--611, 2018.
+
+\bibitem{2018PointSeg}
+Yuan Wang, Tianyue Shi, Peng Yun, Lei Tai, and Ming Liu.
+\newblock Pointseg: Real-time semantic segmentation based on 3d lidar point
+  cloud.
+\newblock 2018.
+
+\bibitem{wu2018squeezeseg}
+Bichen Wu, Alvin Wan, Xiangyu Yue, and Kurt Keutzer.
+\newblock Squeezeseg: Convolutional neural nets with recurrent crf for
+  real-time road-object segmentation from 3d lidar point cloud.
+\newblock In {\em 2018 IEEE International Conference on Robotics and Automation
+  (ICRA)}, pages 1887--1893. IEEE, 2018.
+
+\bibitem{wu2019squeezesegv2}
+Bichen Wu, Xuanyu Zhou, Sicheng Zhao, Xiangyu Yue, and Kurt Keutzer.
+\newblock Squeezesegv2: Improved model structure and unsupervised domain
+  adaptation for road-object segmentation from a lidar point cloud.
+\newblock In {\em 2019 International Conference on Robotics and Automation
+  (ICRA)}, pages 4376--4382. IEEE, 2019.
+
+\bibitem{xu2020squeezesegv3}
+Chenfeng Xu, Bichen Wu, Zining Wang, Wei Zhan, Peter Vajda, Kurt Keutzer, and
+  Masayoshi Tomizuka.
+\newblock Squeezesegv3: Spatially-adaptive convolution for efficient
+  point-cloud segmentation.
+\newblock {\em arXiv preprint arXiv:2004.01803}, 2020.
+
+\end{thebibliography}
